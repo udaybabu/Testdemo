@@ -1,0 +1,22 @@
+
+.login-wrapper {
+    .login {
+        display: flex;
+        justify-content: center;
+        .name {
+            background-color: red;
+            .text-name {
+                text-align: center;
+                font-size: 1rem;
+            }
+        }
+        .password {
+            margin-top: 10px;
+            .text-password {
+                text-align: center;
+                font-size: 1rem;
+            }
+        }
+    }
+    
+}
